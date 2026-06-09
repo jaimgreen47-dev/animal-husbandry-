@@ -1,2 +1,1 @@
-# animal-husbandry-
-HeaderBlock {     heroImage: URL     name: string     tag: string     species: string     breed: string     sex: enum     birthdate: date     age: auto     quickActions: [edit, addPhoto, share] }
+creating a tool that makes the "admin" side of ranching—like tracking health records, lineage, or sale details—feel as natural as working in the field. It’s meant to save the breeder time while making their animals look professional to potential buyers.
